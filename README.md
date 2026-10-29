@@ -24,3 +24,4 @@ Visit http://localhost:8080.
 Configure `DOCKERHUB_USERNAME` and `DOCKERHUB_TOKEN` as repository Actions secrets.
 See `../STEP_BY_STEP_INSTRUCTIONS.md` in the downloaded package.
 Webhook testing: This repository uses GitHub webhooks to observe push and pull request events.
+Webhook pull request test for DevOps Assignment 2.
